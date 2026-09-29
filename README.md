@@ -2,7 +2,7 @@
 
 **Group Number:** 2
 
-**Submitted by:  – 223032344 – Ndahafa Ngishoongole**
+**Submitted by:  – 225061333 - Allan Lunga**
 
 **Group Members:**
 
@@ -13,7 +13,7 @@
 | Amani Enkara | 224072536 |
 | Allan Makhosa Lunga | 225061333 |
 | Ndahafa Ngishoongele | 223032344 |
-<!-- Contribution by Ndahafa Ngishoongole -->
+<!-- Contribution by Allan Lunga -->
 
 **GitHub Repository:** https://github.com/223127981/DSA521S_Group2_Project2026
 
